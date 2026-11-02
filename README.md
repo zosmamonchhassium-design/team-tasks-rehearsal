@@ -16,7 +16,7 @@ npm test
 
 ## Contributing
 
-Push your changes directly to main.
+Open a pull request to main. The test check must pass before it can merge.
 
 ## License
 
